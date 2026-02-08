@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="WHR" uuid="9ba6a48a-d1df-4e21-a98d-8b02bf66d25e">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/WHR.db</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="GDP_and_Life_Score_Data" uuid="3281b9a5-d39a-4c67-8864-f2145d088a8c">
+    <data-source source="LOCAL" name="GDP_and_Life_Score_Data" uuid="f3dc6c5b-b9b1-4602-a26c-409924309f63">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>

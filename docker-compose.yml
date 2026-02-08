@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  gdp-life-ladder-etl:
+    build: .
+    container_name: gdp_life_ladder_etl
+    volumes:
+      - .:/app
+      - ./database:/app/database
+    environment:
+      - PYTHONUNBUFFERED=1
